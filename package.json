@@ -1,0 +1,17 @@
+{
+  "name": "forex-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.1.14"
+  },
+  "dependencies": {
+    "electron-reload": "^1.5.0"
+  }
+}
